@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 116px;
+    line-height: 1.25;
+    text-transform: inherit;
+    word-break: break-word;
+    
+    background-color: blue;
+    color: whitesmoke;
+
+    margin: 40px auto 40px auto;
+    width: 700px;
+}
+
+div {
+    margin-bottom: 100px;
+}
+textarea{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 116px;
+    line-height: 1.25;
+    background-color: blue;
+    color: whitesmoke;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    
+}
